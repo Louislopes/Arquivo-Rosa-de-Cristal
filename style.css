@@ -1,17 +1,21 @@
+body {
+    background-color: rgb(219, 215, 219); 
+  }
+
+  div {
+    font-size: 19px;
+   font-family: georgia;
+}
+
 h1 {
     color:#5370b4;
    text-align: center;
    font-size: 30px;
 }
 
-
 h2 {
-    color:#384f85;
-   
-    background-color: rgb(219, 215, 219);
-       
+    color:#384f85; 
    font-size: 25px;
-  
    font-family: georgia;
 }
 
@@ -19,17 +23,18 @@ h3 {
     font-size: 22px;
 }
 
-div {
-    background-color: rgb(219, 215, 219);
-    font-size: 19px;
-   font-family: georgia;
-}
-
 ruby {
     color:#aa2e25;}
   
-
  a {
         font-size: 19px;
         text-decoration: none;
+        color: rgb(38, 108, 129);
     }
+
+    details {
+        color:rgb(52, 155, 180);
+        font-size: 19px;
+    }
+
+    
