@@ -1,9 +1,11 @@
 body {
     background-color: rgb(218, 216, 216);
     margin: 5px 400px 30px 400px;
+    
+
 }
 
-  div {
+  .container {
     font-size: 19px;
    font-family: georgia;
    background-color: rgb(238, 236, 236);
@@ -41,10 +43,7 @@ ruby {
         padding: 6px;
     }
 
-    details {
-        color:rgb(52, 155, 180);
-        font-size: 19px;
-    }
+   
 p {
     border:5px;
 }
