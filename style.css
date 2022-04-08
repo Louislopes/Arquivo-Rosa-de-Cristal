@@ -3,9 +3,9 @@ body {
 }
 
   .container {
-    font-size: 19px;
-    font-family: 'Roboto', sans-serif;
-   background-color: rgb(238, 236, 236);
+      font-size: 19px;
+      font-family:georgia;
+      background-color: rgb(238, 236, 236);
    padding:15px 30px 10px 30px;
    margin: 5px 400px 30px 400px;
    width: 1080px;
@@ -45,4 +45,5 @@ ruby {
    
 p {
     border:5px;
+    font-family: 'Roboto', sans-serif;
 }
